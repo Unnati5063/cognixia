@@ -3,4 +3,5 @@ checking the sync
 checking fetch
 commit from dev branch
 set upstream
+dev upstream
 
