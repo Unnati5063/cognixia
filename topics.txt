@@ -11,3 +11,6 @@ finally merge
 compare changes
 compare local and remote branch
  trying a pull request
+fork
+wiki page
+pull request
