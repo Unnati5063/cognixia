@@ -1,0 +1,13 @@
+splash
+making directory
+deleting
+switch to particular branch
+fetch from local
+push / pull from main
+make file
+clone
+edit file
+finally merge
+compare changes
+compare local and remote branch
+ trying a pull request
